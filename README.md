@@ -1,7 +1,7 @@
 # easyfiftybucks
-# this is the keyin fire robot project thing
-# current tasks
+this is the keyin fire robot project thing
+current tasks
 
-# Jarod - robot navigation
-# Caleb - room temperature graphing
-# Paige - Fire rooms
+Jarod - robot navigation
+Caleb - room temperature graphing
+Paige - Fire rooms
